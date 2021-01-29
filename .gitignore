@@ -1,0 +1,11 @@
+#Config
+lib/config.php
+
+#Bulma
+bulma/node_modules
+
+node_modules/
+
+#Node
+package-lock.json
+package.json
